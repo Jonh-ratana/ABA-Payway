@@ -1,5 +1,7 @@
 # ABA PayWay Python Demo
 
+![ABA PayWay Integration Flow](flow.png)
+
 Simple Python demo for creating an ABA PayWay purchase request with values loaded from a `.env` file.
 
 ## Features
